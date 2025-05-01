@@ -21,7 +21,7 @@ export default {
           100: 'FOF2FA',
           200: '#010101',
           300: '#4FB7DD',
-        }
+        },
         voilet: {
           300: '#5724FF',
         },
